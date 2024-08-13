@@ -5,15 +5,7 @@
 <u>Location:</u> Vancouver, BC Canada </pre>
 
 <p><u> Summary: </u></p>
-<p> As a data scientist with a PhD degree and 5 years of work experience (see my education), I have a 
-deep understanding of statistical modeling, machine learning, and data visualization. My career has 
-been focused on solving complex business problems through the use of data-driven insights, and I have a 
-proven track record of delivering measurable results (see experience section). As a data scientist with 
-a PhD degree and 5 years of work experience (see my education section), I have a deep understanding of 
-statistical modeling, machine learning, and data visualization (more dteails in skills section). My 
-career has been focused on solving complex business problems through the use of data-driven insights, 
-and I have a proven track record of delivering measurable results (see experience section). Example of 
-my work can be found in <a href="analysisexample.html">analysis example.</a></p>
+<p> My interest of working are position related to data science, web development and management. Most of my previous working experience has been in customer service and software development as second, I have passion for solving to simple to complex problems either for customer service or in a project. You can view my projects in software development or jump to the data science report sample. <a href="analysisexample.html">analysis example.</a></p>
 
 <p><strong> Education </strong></p>
 <ul>
@@ -72,12 +64,22 @@ my work can be found in <a href="analysisexample.html">analysis example.</a></p>
 </ul>
 ```
 
+```{dropdown} Trader in the stock exchange , Australia, 2020 Feb-2021 Jan
+<ul>
+<li> Over 100 trades in the stock exchange </li>
+<li> 7% ROI </li>
+<li> Learned from trading mistakes </li>
+<li> Got familiar with investing patterns and ETFs </li>
+</ul>
+```
+
 ```{dropdown} Store Assistant, Waffle Shop , Guatemala City, 2018 Feb-2019 Sept
 <ul>
-<li> Tried to achieve constantly the kpi of customer satisfaction which was 88% </li>
-<li> Assisted for 3 months the trainer in training new members </li>
-<li> Received coaching and gave coaching based on smart goals </li>
-<li> Handled over 4000 chats and 10000 phone calls </li>
+<li> Learned how to use POS and cash register </li>
+<li> Assisted in the process of acepting payments and preparing food </li>
+<li> Got familiar with food preparation processes and hygene </li>
+<li> Explained the menu to new customers and tried to make a good experience </li>
+<li> Daily revision of food inventory </li>
 </ul>
 ```
 
@@ -182,18 +184,19 @@ Javascript, To Be Issued Sep-Nov
 :::
 ::::
 
-<p><strong> Publications </strong></p>
+<p><strong> Other achievements </strong></p>
 <ul>
-<li>
-Smith, J., and Jones, L. "A Comparative Analysis of Machine Learning Techniques for Predicting Customer Churn," Journal of Data Science, Vol. 5, No. 2, 2019. </li>
+<li> Among the first groups of finishing Intro To Systematic Program Design in Python at The University
+of British Columbia <a href="https://extendedlearning.ubc.ca/about/student-profiles/technology/meet-eduardo">View My Course Testimony.</a> </li>
+<li> Represented my country in Junior Triathlon Games Central America 2013-2014 </li>
 </ul>
 
-<p><strong> Professional Memberships </strong></p>
+<p><strong> Hobbies </strong></p>
 <ul>
-<li>
-Member, Data Science Association </li>
-<li>
-Member, American Statistical Association </li>
-<li>
-Member, Institute of Electrical and Electronics Engineers (IEEE) </li>
+<li> Chess </li>
+<li> Travelling </li>
+<li> Sports, soccer, ufc, running, swimming </li>
+<li> Music </li>
+<li> Drawing and Digital Art </li>
+<li> Topics related to businesses and the stock market </li>
 </ul>
