@@ -4,6 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: about_me
 - file: cv
+- file: about_me
 - file: analysisexample

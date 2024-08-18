@@ -8,6 +8,10 @@ Thanks for visiting my profile, what you can find here is an overview of:
 <li> Example of a data analysis report done by Eduardo </li>
 </ul>
 
+ ```{warning}
+  This website is still under development
+```
+
 <h2> Below the Table of Contents </h2>
 
 ```{tableofcontents}
