@@ -3,7 +3,13 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: cv
-- file: about_me
-- file: analysisexample
+parts:
+- caption: Information
+  numbered: true
+  chapters:
+  - file: cv
+  - file: about_me
+- caption: Data Science
+  numbered: true
+  chapters:
+  - file: analysisexample

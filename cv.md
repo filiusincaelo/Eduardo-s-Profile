@@ -5,16 +5,16 @@
 <u>Location:</u> Vancouver, BC Canada </pre>
 
 <p><u> Summary: </u></p>
-<p> My interest of working are position related to data science, web development and management. Most of my previous working experience has been in customer service and software development as second, I have passion for solving to simple to complex problems either for customer service or in a project. You can view my projects in software development or jump to the data science report sample. <a href="analysisexample.html">analysis example.</a></p>
+<p> My interest of working are position related to data science, web development and management. Most of my previous working experience has been in customer service and software development as second, I have passion for solving to simple to complex problems either for customer service or in a project. You can view my <a href="about_me.html">Projects</a> in software development or jump to the data science <a href="analysisexample.html">Sample Report.</a></p>
 
-<p><strong> Education </strong></p>
+## Education
 <ul>
 <li> Certificate program for data science in python, University of British Columbia (UBC), 2024 </li>
 <li> Systematic program design in python I and II, University of British Columbia (UBC), 2023-2024 </li>
 <li> MBA Program, University Canada West (UCW), 2022-2023 </li>
 </ul>
 
-<p><strong> Skills </strong></p>
+## Skills
 <p> Data Science </p>
 <ul>
 <li> Experience in Programming languages for data science Python, R, SQL </li>
@@ -34,7 +34,7 @@
 <li> Experience using developer tools like notepad++, MS Visual Code, GitHub, Conda, Jupyternotebook </li>
 </ul>
 
-<p><strong> Professional Experience </strong></p>
+## Professional Experience
 
 ```{dropdown} Front Desk Representative, University of British Columbia (UBC) , Vancouver, BC Canada, 2024 Aug-present
 <ul>
@@ -83,7 +83,7 @@
 </ul>
 ```
 
-<p><strong> Certifications </strong> </p>
+## Certifications
 <p> During my leisure hours I have being constantly doing online courses related to either data science or web development, find below certifications and course completion certificates that I have done online, I completed over 5-7 programming courses in 2023 but due to budget I got certified until 2024. </p>
 
 ::::{grid}
@@ -184,14 +184,14 @@ Javascript, To Be Issued Sep-Nov
 :::
 ::::
 
-<p><strong> Other achievements </strong></p>
+## Other achievements
 <ul>
-<li> Among the first groups of finishing Intro To Systematic Program Design in Python at The University
+<li> Among the first groups to finish Intro To Systematic Program Design in Python at The University
 of British Columbia <a href="https://extendedlearning.ubc.ca/about/student-profiles/technology/meet-eduardo">View My Course Testimony.</a> </li>
 <li> Represented my country in Junior Triathlon Games Central America 2013-2014 </li>
 </ul>
 
-<p><strong> Hobbies </strong></p>
+## Hobbies
 <ul>
 <li> Chess </li>
 <li> Travelling </li>

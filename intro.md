@@ -3,16 +3,19 @@
 Thanks for visiting my profile, what you can find here is an overview of:
 
 <ul> 
+<li> Curriculum Vitae </li>
 <li> A list of projects that I have done </li>
-<li> Resume </li>
-<li> Example of a data analysis report done by Eduardo </li>
+<li> Sample of a data analysis report </li>
 </ul>
 
- ```{warning}
-  This website is still under development
+```{margin}
+```{admonition} Quote of the day
+"In order to succeed we must first believe than we can"
+Nikos Kazantzakis
 ```
 
-<h2> Below the Table of Contents </h2>
+<h2> Table of Contents </h2>
 
 ```{tableofcontents}
+
 ```
