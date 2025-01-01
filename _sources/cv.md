@@ -46,15 +46,6 @@
 </ul>
 ```
 
-```{dropdown} Service worker, University of British Columbia (UBC) , Vancouver, BC Canada, 2022 Nov-2024 Jul
-<ul>
-<li> Clean different areas and buildings to keep cleaning standards </li>
-<li> Work within a team  </li>
-<li> Helped in training new members </li>
-<li> Assisted other coworkers and supervisor when needed </li>
-</ul>
-```
-
 ```{dropdown} Customer Service Representative, Telus International , Guatemala City, 2021 Feb-2022 Jul
 <ul>
 <li> Tried to achieve constantly the kpi of customer satisfaction which was 88% </li>
