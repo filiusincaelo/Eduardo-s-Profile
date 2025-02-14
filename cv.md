@@ -36,7 +36,7 @@
 
 ## Professional Experience
 
-```{dropdown} Front Desk Representative, University of British Columbia (UBC) , Vancouver, BC Canada, 2024 Aug-present
+```{dropdown} Front Desk Representative, University of British Columbia (UBC) , Vancouver, BC Canada, 2024 Aug-2025 Feb
 <ul>
 <li> Assisted students with check ins and check outs at ubc campus </li>
 <li> Make students comfortable and welcome them at UBC campus </li>
@@ -168,6 +168,10 @@ Git, Issued Jul 2024
 
 :::{grid-item-card} The University of British Columbia
 Key Capabilities in Data Science, Issued Aug 2024
+:::
+
+:::{grid-item-card} w3schools.com
+Cyber Security, Issued Feb 2025
 :::
 ::::
 
