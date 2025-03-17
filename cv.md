@@ -167,11 +167,19 @@ Git, Issued Jul 2024
 :gutter: 2
 
 :::{grid-item-card} The University of British Columbia
-Key Capabilities in Data Science, Issued Aug 2024
+Key Capabilities in Data Science in Python, Issued Aug 2024
 :::
 
 :::{grid-item-card} w3schools.com
-Cyber Security, Issued Feb 2025
+Javascript, Issued Mar 2025
+:::
+::::
+
+::::{grid}
+:gutter: 2
+
+:::{grid-item-card} w3schools.com
+Front end development, Issued Mar 2025
 :::
 ::::
 
